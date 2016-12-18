@@ -1,7 +1,0 @@
-C:\Users\hp\Desktop\UDiskLowFormat\FormatTool\Release\FormatTool.exe
-C:\Users\hp\Desktop\UDiskLowFormat\FormatTool\Release\FormatTool.pdb
-C:\Users\hp\Desktop\UDiskLowFormat\FormatTool\obj\x86\Release\FormatTool.FormMain.resources
-C:\Users\hp\Desktop\UDiskLowFormat\FormatTool\obj\x86\Release\FormatTool.Properties.Resources.resources
-C:\Users\hp\Desktop\UDiskLowFormat\FormatTool\obj\x86\Release\FormatTool.csproj.GenerateResource.Cache
-C:\Users\hp\Desktop\UDiskLowFormat\FormatTool\obj\x86\Release\FormatTool.exe
-C:\Users\hp\Desktop\UDiskLowFormat\FormatTool\obj\x86\Release\FormatTool.pdb
