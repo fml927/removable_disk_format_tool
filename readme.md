@@ -1,4 +1,7 @@
 ﻿#README
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/44312b969e784d65a3ba91fab6180132)](https://www.codacy.com/app/fml927/removable_disk_format_tool?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fml927/removable_disk_format_tool&amp;utm_campaign=badger)
+
 开发环境：Visua Studio 2010
 
 此工具目标是合并移动设备上的分区，全部容量还原，并使u盘回到没有格式化的初始状态。
